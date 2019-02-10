@@ -1,0 +1,14 @@
+NOTAS
+--------------------------------
+
+### Projeto1.jar ### 
+
+Fiz um APP usando a tecnologia java que consulta diretamente no banco de dados sqllite.
+As consultas do arquivo "queries.txt" geram os grafícos usando a biblioteca de gráficos Java Jfreechart.
+(mais informações em: http://www.jfree.org/jfreechart/)
+
+**Necessário o java instalado na maquina (JRE - Java RUNTIME Environment) para executar o .jar e o banco chinook.db na mesma pasta do Projeto1.jar para funcionar.
+
+JRE disponível em https://java.com/pt_BR/download/
+
+
