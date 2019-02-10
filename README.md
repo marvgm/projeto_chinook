@@ -4,6 +4,7 @@ Análise do banco de dados Chinook com sql e gráficos feitos com componentes Ja
 Banco de dados Chinook
 
 Introdução
+
 Neste projeto você irá consultar o banco de dados Chinook. 
 
 O banco de dados Chinook armazena informações sobre uma loja de música. 
